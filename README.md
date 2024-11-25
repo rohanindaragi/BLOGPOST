@@ -1,6 +1,6 @@
-# Post Management API
+# BLOGPOST Management API
 
-This repository contains a REST API for managing posts, implemented in `post.js`.
+This repository contains a REST API for managing blog posts, implemented in `post.js`.
 
 ## Prerequisites
 
