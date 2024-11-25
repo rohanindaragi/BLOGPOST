@@ -10,8 +10,8 @@ This repository contains a REST API for managing blog posts, implemented in `pos
 ## Setup
 
 1. Clone this repository:
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/rohanindaragi/BLOGPOST.git
+   cd BLOGPOST
 
 2. Install dependencies:
     npm i
